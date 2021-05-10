@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NasreenKhalid/Disney_Clone_React.git/static/css/main.8742ffb3.chunk.css",
+    "main.js": "/NasreenKhalid/Disney_Clone_React.git/static/js/main.1398d465.chunk.js",
+    "main.js.map": "/NasreenKhalid/Disney_Clone_React.git/static/js/main.1398d465.chunk.js.map",
+    "runtime-main.js": "/NasreenKhalid/Disney_Clone_React.git/static/js/runtime-main.6484c533.js",
+    "runtime-main.js.map": "/NasreenKhalid/Disney_Clone_React.git/static/js/runtime-main.6484c533.js.map",
+    "static/css/2.eb2c613e.chunk.css": "/NasreenKhalid/Disney_Clone_React.git/static/css/2.eb2c613e.chunk.css",
+    "static/js/2.52a36920.chunk.js": "/NasreenKhalid/Disney_Clone_React.git/static/js/2.52a36920.chunk.js",
+    "static/js/2.52a36920.chunk.js.map": "/NasreenKhalid/Disney_Clone_React.git/static/js/2.52a36920.chunk.js.map",
+    "index.html": "/NasreenKhalid/Disney_Clone_React.git/index.html",
+    "static/css/2.eb2c613e.chunk.css.map": "/NasreenKhalid/Disney_Clone_React.git/static/css/2.eb2c613e.chunk.css.map",
+    "static/css/main.8742ffb3.chunk.css.map": "/NasreenKhalid/Disney_Clone_React.git/static/css/main.8742ffb3.chunk.css.map",
+    "static/js/2.52a36920.chunk.js.LICENSE.txt": "/NasreenKhalid/Disney_Clone_React.git/static/js/2.52a36920.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/NasreenKhalid/Disney_Clone_React.git/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6484c533.js",
+    "static/css/2.eb2c613e.chunk.css",
+    "static/js/2.52a36920.chunk.js",
+    "static/css/main.8742ffb3.chunk.css",
+    "static/js/main.1398d465.chunk.js"
+  ]
+}
